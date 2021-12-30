@@ -1,1 +1,1 @@
-# wishlist for Destiny
+# wishlist for Destiny 2
