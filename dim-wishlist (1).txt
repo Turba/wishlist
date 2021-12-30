@@ -1,4 +1,7 @@
 // Found Verdict (Timelost) (PvE)
-//notes:PvE-
+//notes:PvE - Lalala
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717,186337601
 
+// Found Verdict (Timelost) (PvP)
+//notes:PvP- Blalal
+dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717,186337601
