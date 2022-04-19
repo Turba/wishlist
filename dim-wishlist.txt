@@ -7,9 +7,9 @@ dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717,18633
 dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717,186337601
 
 // A Sudden Death (PvP)
-//notes: Хуйня
+//notes: COMMENT
 dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,957782887,186337601
 
 // Riiswalker (PvE)
-//notes:PvE - Хуй Пизда Джигурда
+//notes:PvE - COMMENT
 dimwishlist:item=108221785&perks=1047830412,706527188,591790007,2697220197
